@@ -1,5 +1,7 @@
 import fs from "fs/promises";
-const DB_PATH = "./DB/data.json";
+import path from "path";
+
+const DB_PATH = path.join(process.cwd(), "DB", "data.json");
 
 export async function readData() {
   const data = await fs.readFile(DB_PATH, "utf-8");
