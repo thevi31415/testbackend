@@ -1,0 +1,19 @@
+[
+    {
+        "id": "1",
+        "name": "Sample Item 1",
+        "description": "This is a sample item.",
+        "createdAt": "2025-04-07T10:00:00.000Z"
+    },
+    {
+        "id": "2",
+        "name": "Sample Item 2",
+        "description": "Another sample item.",
+        "createdAt": "2025-04-07T10:05:00.000Z"
+    },
+    {
+        "id": "0bff8698-f6ed-4157-8bfb-0a7976d51f1d",
+        "name": "Sample Item x",
+        "description": "This is a sample item."
+    }
+]
